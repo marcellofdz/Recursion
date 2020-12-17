@@ -1,5 +1,5 @@
 using System;
-public class FactorialRecurs{
+public class FactorialRec{
     public static void Main(String[] args){
         int vNum = Convert.ToInt32(args[0]);
         Console.WriteLine("Su Factorial es: " + factorial(vNum));

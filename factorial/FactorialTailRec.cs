@@ -1,6 +1,6 @@
 using System;
 
-class TrailFactorial{
+class FactorialRec{
     static public void Main(String[] args){
         int vNum = Convert.ToInt32(args[0]);
        Console.WriteLine("Tu factorial es: "+ fact(vNum));
